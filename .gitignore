@@ -1,7 +1,6 @@
 .idea/
 help/
 .vagrant/
-python-lab.iml
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
